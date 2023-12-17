@@ -6,5 +6,5 @@
 - Education: Bachelors of Science in Computer Science and Masters of Science in Data Science
 - How to reach me: https://stackoverflow.com/users/23115360/mary-clayton
 - Pronouns: She/Her
-- Portfolio: Coming Soon!
+- Portfolio: [Portfolio](https://www.datascienceportfol.io/mary_clayton)
 - Knowledge in: R, Python, SQL, Javascript, C, Java
