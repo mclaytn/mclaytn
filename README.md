@@ -7,3 +7,4 @@
 - How to reach me: https://stackoverflow.com/users/23115360/mary-clayton
 - Pronouns: She/Her
 - Portfolio: Coming Soon!
+- Knowledge in: R, Python, SQL, Javascript, C, Java
