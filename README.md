@@ -2,9 +2,9 @@
 
 
 - Name: Mary Clayton
-- Inspiring Software Engineer and Machine Learning Engineering Enthusiast
-- Education: Bachelors of Science in Web Design
+- Inspiring Web Designer/UX Designer
+- Education: Bachelors of Art in Web Design (Grand Canyon University)
 - How to reach me: https://stackoverflow.com/users/23115360/mary-clayton
 - Pronouns: She/Her
-- Portfolio: [Portfolio](https://www.datascienceportfol.io/mary_clayton)
+- Portfolio: [Portfolio](www.marycathleandesigns.com)
 - Knowledge in: Python, SQL, Javascript, C#, Java, HTML/CSS/Javascript
