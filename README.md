@@ -2,8 +2,8 @@
 
 
 - Name: Mary Clayton
-- Inspiring Data Scientist and Machine Learning enthusiast
-- Education: Bachelors of Art in Web Design (Grand Canyon University) and Data Science (University of Phoenix)
+- Inspiring Software Engineer and Computer Vision Engineer 
+- Education: Bachelors of Science in Computer Science (Western Governors University)
 - How to reach me: https://stackoverflow.com/users/23115360/mary-clayton
 - Pronouns: She/Her
 - Portfolio: [Portfolio] COMING SOON!
