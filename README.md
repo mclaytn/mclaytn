@@ -2,7 +2,7 @@
 
 
 - Name: Mary Clayton
-- Inspiring Software Engineer and Computer Vision Engineer 
+- Inspiring Data Analyst
 - Education: Bachelors of Science in Data Analytics (Western Governors University)
 - How to reach me: https://stackoverflow.com/users/23115360/mary-clayton
 - Pronouns: She/Her
