@@ -2,9 +2,8 @@
 
 
 - Name: Mary Clayton
-- Inspiring Data Analyst and Artificial Intelligence Engineer
-- Education: Bachelor of Science in Data Analytics (Western Governors University)
-- How to reach me: https://stackoverflow.com/users/23115360/mary-clayton
+- Inspiring Mobile App/Web Developer
+- Education: Bachelor of Arts in Digital Design (Grand Canyon University)
 - Pronouns: She/Her
 - Portfolio: [Portfolio] COMING SOON!
-- Knowledge in Python, SQL, R, Tableau, Power BI, and Deep Learning
+- Knowledge in Swift, C, and Javascript
