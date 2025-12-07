@@ -2,7 +2,7 @@
 
 
 - Name: Mary Clayton
-- Inspiring AI/ ML Engineer
-- Education: Bachelor of Science in Computer Science (UOPeople)
+- Inspiring Cybersecurity Analyst
+- Education: Bachelor of Science in Computer Science (UOPeople), Master of Science in Cybersecurity
 - Pronouns: She/Her
-- Portfolio: [Portfolio] COMING SOON!
+- Portfolio: [Portfolio]
