@@ -1,14 +1,15 @@
 ### Hi there 👋
 ## My name is Mary and I'm from Phoenix, AZ.
 
-- Pronouns: She/Her/Hers
-- Objective: Looking for Entry-level & Internships
-- Education: Bachelor of Science in Cybersecurity and Information Assurance (Western Governors University)
-- Lab Projects: Found in featured projects
+### Objective:
+I am looking for Entry-level & Internships in IT and cybersecurity. I am going for a Bachelor of Science in Cybersecurity and Information Assurance from Western Governors University. The lab projects and more are located in my featured projects.
 
   
-### Certifications:
-Google Cybersecurity Certification
-(Completed Dec 2025)
+### Certifications
+I am certified in:
 
-- Linkedin: https://www.linkedin.com/in/maryclaycyber/
+- Google Cybersecurity Certification (Completed Dec 2025)
+
+## Social
+
+Linkedin: [Linkedin](https://www.linkedin.com/in/maryclaycyber/)
