@@ -13,3 +13,5 @@ I am certified in:
 ## Social
 
 Linkedin: [Linkedin](https://www.linkedin.com/in/maryclaycyber/)
+
+Stack Overflow: [Stack Overflow](https://stackoverflow.com/users/23115360/mary-clayton)
