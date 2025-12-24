@@ -14,4 +14,4 @@ I am certified in:
 
 Linkedin: [Linkedin](https://www.linkedin.com/in/maryclaycyber/)
 
-Stack Overflow: [Stack Overflow](https://stackoverflow.com/users/23115360/mary-clayton)
+Stack Overflow: [Stack Overflow](http://stackoverflow.com/users/32100847/mclaytn)
