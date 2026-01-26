@@ -9,8 +9,6 @@ I am looking for Entry-level & Internships in IT and cybersecurity. I am going f
 I am certified in:
 
 - Google Cybersecurity Certification (Completed Dec 2025)
-- CompTIA A+ (Certified Dec 2025)
-- Azure Fundamentals (Certified Dec 2025)
 
 ## Social
 
