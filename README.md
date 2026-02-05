@@ -2,7 +2,7 @@
 ## My name is Mary and I'm from Phoenix, AZ.
 
 ### Objective:
-I am looking for Entry-level & Internships in IT and cybersecurity. I am going for a Master of Science in Cybersecurity emphasis in IT Management. The lab projects and more are located in my featured projects.
+I am looking for Entry-level & Internships in IT and cybersecurity. I am going for a Master of Science in Cybersecurity emphasis in IT Management from Southern New Hampshire University. The lab projects and more are located in my featured projects.
 
   
 ### Certifications
