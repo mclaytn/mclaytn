@@ -17,3 +17,9 @@ Linkedin: [Linkedin](https://www.linkedin.com/in/mary-kay-clay/)
 Stack Overflow: [Stack Overflow](http://stackoverflow.com/users/32100847/mclaytn)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/maryclayton446.png" alt="Your Image Badge" />
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="391eb4e9-ba45-448e-a192-a2d9cd43851e" data-share-badge-host="https://www.credly.com"></div>
+
+### ISC2 Badges
+
+[Candidate Badge](https://www.credly.com/badges/391eb4e9-ba45-448e-a192-a2d9cd43851e/public_url)
