@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mclaytn" alt="mclaytn" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio-project](https://github.com/mclaytn/Portfolio-Project)
+- 🔭 I’m currently working on [Secure Web Application Project](https://github.com/mclaytn/Secure-web-application), [Home Lab](https://github.com/mclaytn/Home-lab)
 
 - 🌱 I’m currently learning **PHP, Java, and SQL**
 
