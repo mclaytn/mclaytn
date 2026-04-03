@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary</h1>
-<h3 align="center">A passionate Full Stack Developer from Arizona.</h3>
+<h3 align="center">A Technical and Analytic Cybersecurity Professional from Arizona.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mclaytn&label=Profile%20views&color=0e75b6&style=flat" alt="mclaytn" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **PHP, Java, and SQL**
 
-- 💬 Ask me about **react, angular, and vue**
+- 💬 Ask me about **Application Security, Endpoint Security, SIEM Tools**
 
-- 📫 How to reach me **mclayton7297@gmail.com**
+- 📫 How to reach me **maryclayton446@gmail.com**
 
 - ⚡ Fun fact **I have a passion for learning**
 
