@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mclaytn" alt="mclaytn" /></a> </p>
 
 - 🔭 I’m currently working on [TBD]
-- 🌱 I’m currently learning **PHP, Java, and SQL**
+- 🌱 I’m currently learning **Refreshers on Javascript and C# **
 
 - 💬 Ask me about **AI Agents such as Gemini, and Cursor**
 
